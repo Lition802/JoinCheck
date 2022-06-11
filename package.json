@@ -1,0 +1,22 @@
+{
+  "name": "joincheck",
+  "version": "1.0.0",
+  "description": "join group check with password",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lition802/JoinCheck.git"
+  },
+  "keywords": [
+    "nilbridge"
+  ],
+  "author": "Lition",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Lition802/JoinCheck/issues"
+  },
+  "homepage": "https://github.com/Lition802/JoinCheck#readme"
+}
